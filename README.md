@@ -4,9 +4,9 @@
 # Introduction
 
 StochHMM is a free, open source C++ Library and application that implements HMM
-from simple text files.   It implements traditional HMM algorithms in addition it
+from simple text files.   It implements traditional HMM algorithms in addition to
 providing additional flexibility.  The additional flexibility is achieved by
-allowing researchers to integrate additional data sources and application into
+allowing researchers to integrate additional data sources and application code into
 the HMM framework.
  
 For documentation on model syntax and designing a model, see Github wiki.
