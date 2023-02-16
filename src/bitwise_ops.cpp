@@ -100,7 +100,7 @@ namespace StochHMM {
 		else if (pos == 31){
 			return val & (1<<31);
 		}	
-		return val & ((1 << pos+1) - 1);
+		return val & ((1 << (pos+1)) - 1);
 	}
 
 	////Rotate left with carry through
