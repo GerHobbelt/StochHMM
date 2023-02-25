@@ -35,7 +35,7 @@ namespace StochHMM{
         
         usage=usageStatement;
         
-        //Process paramaters
+        //Process parameters
         for(int i=0;i<size;i++){
             //Get possible commandline tags and split possible tags;
             std::string opt_tag=param[i].commandline_tag;
